@@ -18,12 +18,12 @@
     <tr>
       <td>
         <p align="center">
-            <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
+            <img height='132' alt='language' src="https://skillicons.dev/icons?i=cpp,cs,php,js,ts,py&perline=3" />
         </p>
       </td>
       <td>
         <p align="center">
-          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,react,vue,nextjs,nuxtjs,redux,graphql&perline=5" />
+          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=laravel,wordpress,symfony,tailwind,react,vue,express,nodejs&perline=4" />
         </p>
       </td>
       <td>
