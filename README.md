@@ -23,7 +23,7 @@
       </td>
       <td>
         <p align="center">
-          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,react,vue,nextjs,nuxtjs,redux,graphql&perline=5" />
+          <img height='132' alt='framework' src="https://skillicons.dev/icons?            i=laravel,wordpress,symfony,codeigniter,react,vue,express&perline=5" />
         </p>
       </td>
       <td>
