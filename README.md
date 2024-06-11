@@ -18,7 +18,7 @@
     <tr>
       <td>
         <p align="center">
-            <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
+            <img height='132' alt='language' src="https://skillicons.dev/icons?i=cpp,php,js,ts,nodejs,solidity,cs,py&perline=4" />
         </p>
       </td>
       <td>
