@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=Passionmuse&color=blue)
+[![GitHub](https://img.shields.io/github/followers/Passionmuse?style=flat&logo=github)](https://github.com/Passionmuse?tab=followers)
+
 <h1>👋 Hi, I’m Passionmuse </h1>
   
 <p>Let's collaborate to build something great!</p>
